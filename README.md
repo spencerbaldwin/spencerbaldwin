@@ -32,7 +32,7 @@ Digital Arithmetic Logic Unit supporting arithmetic, logical, and bit-shift oper
 
 ---
 
-### 🛠 Skills
+### Skills
 
 **Languages:** C++, Python, Java, JavaScript  
 **Frontend:** React, Tailwind CSS, Framer Motion, Lucide  
