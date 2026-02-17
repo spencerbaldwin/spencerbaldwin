@@ -1,4 +1,4 @@
-# Hey, I'm Spencer 👋
+# Hey, I'm Spencer 
 
 CS senior at Texas State University with a background in Economics & Political Science. I like building things that work — cache simulators, autocomplete engines, digital circuits, and now full-stack web apps.
 
@@ -31,19 +31,18 @@ Bilingual mental wellness platform for students with text-to-speech and internat
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
-- 🌐 [spencerbaldwin.dev](https://spencerbaldwin.dev)  
-- 💼 [LinkedIn](https://linkedin.com/in/spencer-baldwin-a0297b321)  
-- ✉️ spencerbbaldwin@gmail.com  
+-  [spencerbaldwin.dev](https://spencerbaldwin.dev)  
+-  [LinkedIn](https://linkedin.com/in/spencer-baldwin-a0297b321)  
+-  spencerbbaldwin@gmail.com  
 
 ---
 
-### 🎓 Education
+###  Education
 
-**B.S. Computer Science** · Texas State University · May 2025  
+**B.S. Computer Science** · Texas State University · May 2026 
 **B.A. Political Science & Economics** · Texas State University · May 2022  
-Dean's List: Summer 2021 – Spring 2022
 
 ---
 
