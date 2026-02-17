@@ -16,7 +16,7 @@ A platform where youth can play, create, and publish their own mental health and
 
 ---
 
-### 🔧 Other Projects
+###  Other Projects
 
 **Mood Garden** · React  
 Bilingual mental wellness platform for students with text-to-speech and internationalization.
@@ -54,7 +54,7 @@ Digital Arithmetic Logic Unit supporting arithmetic, logical, and bit-shift oper
 
 **B.S. Computer Science** · Texas State University · May 2025  
 **B.A. Political Science & Economics** · Texas State University · May 2022  
-Dean's List: Summer 2021 – Spring 2022
+
 
 ---
 
